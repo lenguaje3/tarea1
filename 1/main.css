@@ -1,0 +1,11 @@
+body{
+    background-color: #892179;
+}
+.logo{
+    display: flex;
+    position: relative;
+    align-items: center;
+    left: 490px;
+    top: 100px;
+
+}

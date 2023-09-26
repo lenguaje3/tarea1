@@ -1,0 +1,17 @@
+body{
+    background-color: #589171   ;
+}
+.house{
+    display: flex;
+    position: absolute;
+left: 300px;
+top: 60px;
+    
+ }
+ .casa{
+    display: flex;
+    position: absolute;
+left: 200px;
+bottom: 10px;
+    
+ }
